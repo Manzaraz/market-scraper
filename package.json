@@ -1,0 +1,24 @@
+{
+  "name": "market-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manzaraz/market-scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manzaraz/market-scraper/issues"
+  },
+  "homepage": "https://github.com/Manzaraz/market-scraper#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.20.1",
+    "playwright": "^1.20.1"
+  }
+}
